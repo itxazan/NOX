@@ -1,7 +1,7 @@
 #Open Source By fAHAD
 # Please Follow My github FADII143
 
-mport os, sys, time, datetime, re, bs4, json, random, requests, subprocess, platform, uuid, string, base64
+import os, sys, time, datetime, re, bs4, json, random, requests, subprocess, platform, uuid, string, base64
 from os import path
 import platform,json,time,re,random,sys,uuid,string,subprocess
 import time
