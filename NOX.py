@@ -1123,7 +1123,7 @@ def dynamic(text):
         print('\r'+text+o),
         sys.stdout.flush();time.sleep(1)
 
-def rehan():
+def Main():
 	os.system('clear')
 	print(logo)
 	print('[1] RANDOM PAK CLONING')
@@ -1511,4 +1511,4 @@ def fcrack(uid,pwx,tl):
     except:
         pass
         
-Menu()
+Main()
